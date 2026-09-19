@@ -3,7 +3,6 @@ Application Streamlit — Prédiction de l'état d'un Vehicule
 Pour savoir s´il s´agit d´un véhicule neuf ou D´occasion
 Lancement en local :  streamlit run app.py
 """
-!pip install joblib
 
 import numpy as np
 import pandas as pd
